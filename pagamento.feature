@@ -1,5 +1,5 @@
 #language:pt
-# Cenários para validar o pagamento, escrito em BDD
+# Cenários para validar a funcionalidade do pagamento, escrito em BDD.
 
 Funcionalidade: Validação de Pagamento
 Cenario:  Criar Pagamento sem informar a forma de pagamento
