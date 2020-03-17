@@ -1,5 +1,5 @@
 #language:pt
-# Cenários de Pedido escritos em BDD
+# Cenários para validar a funcionalidade de pedido, todos escritos em BDD.
 Funcionalidade: Validar a não criação de um pedido
 
 Cenario: Criar Pedido sem informar dados do cliente
